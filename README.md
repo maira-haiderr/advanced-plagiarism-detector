@@ -4,7 +4,7 @@
 
 This repository implements an advanced plagiarism detection system using transformer-based sentence embeddings combined with classic machine‑learning classifiers. It now includes support for both **Logistic Regression** (original) and an **SVM** model for improved classification flexibility.
 
-## 🌐 Deployed Live On
+## Deployed Live On
 
 🚀 **Live Demo:** [https://advanced-plagiarism-detector-seven.vercel.app](https://advanced-plagiarism-detector-seven.vercel.app)
 
